@@ -34,13 +34,13 @@ A Machine Learning web application that predicts a student's GPA based on demogr
 * Pandas / NumPy
 * Gradio
 
-#  Installation & Setup
-1️⃣ Clone the repository
-git remote add origin https://github.com/yunusarfat/student-result-predictor-ml.git
-2️⃣ Create virtual environment
-python -m venv venv
-venv\Scripts\activate   # Windows
-3️⃣ Install dependencies
-pip install -r requirements.txt
-▶️ Run the App
-python app.py
+#  Installation & Setup <br/>
+1️⃣ Clone the repository <br/>
+git remote add origin https://github.com/yunusarfat/student-result-predictor-ml.git <br/>
+2️⃣ Create virtual environment <br/>
+python -m venv venv <br/>
+venv\Scripts\activate   # Windows <br/>
+3️⃣ Install dependencies <br/>
+pip install -r requirements.txt <br/>
+▶️ Run the App <br/>
+python app.py <br/>
