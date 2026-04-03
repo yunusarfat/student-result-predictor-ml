@@ -2,7 +2,8 @@
 
 A Machine Learning web application that predicts a student's GPA based on demographic, academic, and lifestyle factors. This project demonstrates an end-to-end ML workflow from model training to deployment using a simple interactive UI.
 # 📸 Demo
-# Link: https://huggingface.co/spaces/arfat16/Student-result-predictor
+Link: https://huggingface.co/spaces/arfat16/Student-result-predictor
+
 <img width="1707" height="903" alt="image" src="https://github.com/user-attachments/assets/1f95b09d-bfa9-43a8-a4fc-7cd50394af3e" />
 <img width="1722" height="832" alt="image" src="https://github.com/user-attachments/assets/e75bfe2d-604d-4aca-a625-9d4e942e02c8" />
 
