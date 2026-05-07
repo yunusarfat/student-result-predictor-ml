@@ -2,6 +2,7 @@ import gradio as gr
 import pickle
 import pandas as pd
 import numpy as np
+# import numpy as np
 
 # Load the trained model
 with open('student_rf_pipeline.pkl', 'rb') as file:
