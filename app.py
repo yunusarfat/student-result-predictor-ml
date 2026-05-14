@@ -45,7 +45,7 @@ inputs=[
 
 ]
 
-#gradio interface
+#user interface
 app=gr.Interface(
     fn=predict_gpa,
     inputs=inputs,
@@ -53,5 +53,5 @@ app=gr.Interface(
     title="HSE Result Predictor",
 )
 
-#launch gradio interface
+#launch gradio app 
 app.launch(share=True)
