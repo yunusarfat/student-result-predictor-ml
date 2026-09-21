@@ -12,7 +12,7 @@ Link: https://huggingface.co/spaces/arfat16/Student-result-predictor
  1. Predict student GPA using a trained ML model
  2. Built with a Random Forest Pipeline
  3. Interactive UI using Gradio
- 4. Handles categorical + numerical features via pipeline
+ 4. Handles categorical + numerical features
 
 # Input Features
 1. Gender
